@@ -1,0 +1,13 @@
+{
+    "name": "melttheiron/php-template",
+    "description": "PHP Template For Iron Worker",
+    "authors": [
+        {
+            "name": "Melt Iron",
+            "email": "melttheiron@gmail.com"
+        }
+    ],
+    "require": {
+    	"aws/aws-sdk-php": "2.*"
+    }
+}

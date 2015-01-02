@@ -1,0 +1,7 @@
+runtime "php"
+
+stack "php-5.4"
+
+exec "index.php"
+
+dir "vendor"
